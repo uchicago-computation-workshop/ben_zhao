@@ -61,7 +61,6 @@ Together with Prof. Heather Zheng, Ben Zhao co-directs the SAND Lab (Systems, Al
 
 <p class=footertext> The 2017-2018 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computation Workshop </a> meets each Thursday from 11 to 12:20 p.m. in Saieh 247. All interested faculty and graduate students are welcome.</p> 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href="https://github.com/uchicago-computation-workshop/ben_zhao/issues"> issues page </a> of the <a href="https://github.com/uchicago-computation-workshop/ben_zhao"> workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href="https://github.com/uchicago-computation-workshop/ben_zhao/issues"> issues page </a> of the <a href="https://github.com/uchicago-computation-workshop/ben_zhao"> workshop's public repository on GitHub.</a> Further instructions are documented in the Computation Workshop's <a href="https://github.com/uchicago-computation-workshop/README"> README on Github.</a></p>.
 
-<p class=footertext>This week, Luís was kind enough to contribute two papers, one in development and a related publication in PNAS. MACSS students should focus their response on the project in development: <a href="https://github.com/uchicago-computation-workshop/ben_zhao/blob/master/2017__zhao__title_of_talk.pdf" >Title of Talk</a>, since these comments will have a greater potential impact. Both papers are available <a href="https://github.com/uchicago-computation-workshop/ben_zhao"> on Github for review. </a></p>
 
