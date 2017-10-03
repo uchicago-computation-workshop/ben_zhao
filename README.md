@@ -27,7 +27,7 @@
 <br>
 </div>
 
-<h4 class=pfblock-header3> Thursday, 10/5/2017 </h4>
+<h4 class=pfblock-header3> Thursday, 10/12/2017 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 <h4 class=pfblock-header3> Saieh Hall 247 </h4>
 
