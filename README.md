@@ -21,7 +21,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header> 
-  <a href="https://github.com/uchicago-computation-workshop/ben_zhao/blob/master/2017__zhao__title_of_talk.pdf" >Title of Talk</a>
+  <a href="https://github.com/uchicago-computation-workshop/ben_zhao/blob/master/2017__zhao__gender_bias_job_market.pdf" >Gender Bias in the Job Market: A Longitudinal Analysis</a>
 </h2>
 
 <br>
@@ -33,7 +33,7 @@
 
 <br>
 
-<p class=pfblock-header3>A light lunch will be provided by the Vendor.</p>
+<p class=pfblock-header3>A light lunch will be provided by Snail Thai Cuisine.</p>
 
 <br><br>
 

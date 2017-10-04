@@ -11,10 +11,10 @@ output:
 library(stringr)
 
 date <- "10/12/2017"
-vendor <- "the Vendor"
-title <- "Title of Talk"
-file_title <- "Title of Talk"
-short_title_n = 3
+vendor <- "Snail Thai Cuisine"
+title <- "Gender Bias in the Job Market: A Longitudinal Analysis"
+file_title <- "Gender Bias Job Market"
+short_title_n = 4
 speaker <- "Ben Zhao"
 department <- "Neubauer Professor of Computer Science, Co-Director at the Systems, Algorithms, Networking, and Data Lab"
 university <- "University of Chicago"
